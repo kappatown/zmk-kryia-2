@@ -55,7 +55,7 @@
         &kp ESC &qtp B N1 &qtp F2 N2 &qtp F3 N3 &qtp F4 N4 &qtp P N7                              &none &none &none &none &none &none
         &none &kp Q &kp W &kp E &kp R &kp G                                                       &none &none &none &none &none &none
         &kp LEFT_ALT &none &kp H &kp D &kp F &kp T &kp B &kp P                &kp LSHFT &tog LOL &none &none &none &none &none &to BASE
-                       &kp N5 &kp N6 &kp LCTRL  &kp TAB &kp SPACE             &kp RETURN &lt SPACE &kp RIGHT_ALT &kp LGUI &kp DEL 
+                       &kp N5 &kp N6 &kp LCTRL  &kp TAB &kp SPACE             &kp RETURN &kp SPACE &kp RIGHT_ALT &kp LGUI &kp DEL 
       >;
     };
 
