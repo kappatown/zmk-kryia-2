@@ -28,8 +28,8 @@
       bindings = <
         &kp ESC  &kp Q &kp W &kp E &kp R &kp T                                                          &kp Y &kp U &kp I &kp O &kp P &kp BACKSPACE 
         &kp TAB  &kp A &kp S &kp D &kp F &kp G                                                          &kp H &kp J &kp K &kp L &kp SEMICOLON &kp SINGLE_QUOTE 
-        &kp LGUI &kp Z &kp X &kp C &kp V &kp B &kp LSHFT &kp LSHFT                  &kp LSHFT &tog LOL &kp N &kp M &kp COMMA &kp PERIOD &kp SLASH &kp DEL 
-            &kp LGUI &kp BACKSPACE &kp LEFT_CONTROL &lt NAV SPACE &kp LEFT_SHIFT    &kp RETURN &lt NUMPAD SPACE &kp RIGHT_CONTROL &kp BACKSPACE &kp DEL 
+        &kp LGUI &kp Z &kp X &kp C &kp V &kp B &kp LSHFT &kp LSHFT                  &kp LSHFT &tog LOL &kp N &kp M &kp COMMA &kp PERIOD &kp BACKSLASH &kp DEL 
+            &kp LGUI &kp BACKSPACE &kp LEFT_CONTROL &lt NAV SPACE &kp LEFT_SHIFT    &kp RETURN &lt NUMPAD SPACE &kp RIGHT_ALT &kp BACKSPACE &kp DEL 
       >;
     };
     Nav_layer {
