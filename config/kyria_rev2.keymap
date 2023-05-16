@@ -36,7 +36,7 @@
       bindings = <
         &kp K_POWER &kp F1       &kp F2          &kp F3       &kp F4       &kp F5                                               &kp C_VOL_UP   &kp HOME         &kp UP     &kp END    &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS 
         &bt BT_CLR  &bt BT_SEL 1 &bt BT_SEL 2    &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_SEL 5                                         &kp C_VOL_DN   &kp LEFT         &kp DOWN   &kp RIGHT  &kp LEFT_BRACKET     &kp RIGHT_BRACKET  
-        &kp C_SLEEP &none        &rgb_ug RGB_TOG &none        &to LOL      &none &kp LSHFT &kp LSHFT        &kp LSHFT &kp LSHFT &kp C_PREVIOUS &kp C_PLAY_PAUSE &kp C_NEXT &kp C_MUTE &kp LEFT_BRACE       &kp RIGHT_BRACE 
+        &kp C_SLEEP &none        &rgb_ug RGB_TOG &none        &to LOL      &none &kp LSHFT &kp LSHFT        &kp LSHFT &kp LSHFT &kp C_MUTE     &kp C_PREVIOUS   &kp C_PLAY_PAUSE &kp C_NEXT &kp LEFT_BRACE &kp RIGHT_BRACE 
                   &kp LGUI &kp BACKSPACE &kp LEFT_ALT &none &kp LEFT_SHIFT                                                   &kp RETURN &none &kp RIGHT_ALT &kp BACKSPACE &kp DEL  
       >;
     };
