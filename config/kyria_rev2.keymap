@@ -7,7 +7,7 @@
 #define NAV 1
 #define NUMPAD 2
 #define FACT 3
-#define SNUM 4
+#define FACTNUM 4
 #define LOL 5
 
 / {
@@ -56,7 +56,7 @@
       bindings = <
         &kp ESC &kp NUMBER_7 &kp NUMBER_8 &kp NUMBER_9 &kp C                                                          &kp Y &kp NUMBER_7 &kp NUMBER_8 &kp NUMBER_9 &kp P &kp BACKSPACE 
         &kp SPACE  &kp A &kp NUMBER_4 &kp NUMBER_5 &kp NUMBER_6 &kp M                                                          &kp H &kp NUMBER_4 &kp NUMBER_5 &kp NUMBER_6 &kp SEMICOLON &kp SINGLE_QUOTE 
-        &lt SNUM M &kp NUMBER_0 &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp B &kp Q &kp TAB     &kp LSHFT &tog FACT &kp NUMBER_0 &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp BACKSLASH &kp DEL 
+        &lt FACTNUM M &kp NUMBER_0 &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp B &kp Q &kp TAB     &kp LSHFT &tog FACT &kp NUMBER_0 &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp BACKSLASH &kp DEL 
             &kp LGUI &kp LEFT_ALT &kp LEFT_CONTROL &kp SPACE &kp LEFT_SHIFT    &kp RETURN &kp SPACE &kp RIGHT_ALT &kp PG_DN &kp DEL 
       >;
     };
@@ -65,7 +65,7 @@
       bindings = <
         &kp ESC  &kp Q &kp W &kp E &kp R &kp C                                                          &kp Y &kp NUMBER_7 &kp NUMBER_8 &kp NUMBER_9 &kp P &kp BACKSPACE 
         &kp SPACE  &kp A &kp S &kp D &kp F &kp M                                                          &kp H &kp NUMBER_4 &kp NUMBER_5 &kp NUMBER_6 &kp SEMICOLON &kp SINGLE_QUOTE 
-        &none  &kp Z &kp X &kp H &kp V &kp B &kp Q &kp TAB     &kp LSHFT &tog FACT &kp NUMBER_0 &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp BACKSLASH &kp DEL 
+        &none  &kp Z &kp X &kp H &kp V &kp B &kp Q &kp TAB     &kp LSHFT &kp Y &kp NUMBER_0 &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp BACKSLASH &kp DEL 
             &kp LGUI &kp LEFT_ALT &kp LEFT_CONTROL &kp SPACE &kp LEFT_SHIFT    &kp RETURN &kp SPACE &kp RIGHT_ALT &kp PG_DN &kp DEL 
       >;
     };
